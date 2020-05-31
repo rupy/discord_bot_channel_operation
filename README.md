@@ -2,4 +2,4 @@
 
 ## 設定
 
-利用する際はdiscordのDevelopper Potalで発行した.env.originalにTOKENを設定して.envにリネームして下さい。
+利用する際はdiscordのDevelopper Potalで発行した.envrc.originalにTOKENを設定して.envrcにリネームしてdirenvを利用して下さい。
